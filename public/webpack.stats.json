@@ -1,0 +1,35 @@
+{
+  "errors": [],
+  "warnings": [],
+  "namedChunkGroups": {
+    "app": {
+      "chunks": [2, 0],
+      "assets": [
+        "webpack-runtime-8e4ad54164f1926999be.js",
+        "webpack-runtime-8e4ad54164f1926999be.js.map",
+        "app-08aed2a57f9304bcd274.js",
+        "app-08aed2a57f9304bcd274.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "component---src-pages-index-js": {
+      "chunks": [1],
+      "assets": [
+        "component---src-pages-index-js-e2c82fdaa5b3a4c37d92.js",
+        "component---src-pages-index-js-e2c82fdaa5b3a4c37d92.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "assetsByChunkName": {
+    "app": [
+      "webpack-runtime-8e4ad54164f1926999be.js",
+      "app-08aed2a57f9304bcd274.js"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-e2c82fdaa5b3a4c37d92.js"
+    ]
+  }
+}
